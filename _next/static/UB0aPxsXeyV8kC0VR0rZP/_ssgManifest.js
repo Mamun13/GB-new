@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fcomment\u002F[id]","\u002Fcomment\u002Fgm\u002F[id]","\u002Forganogram\u002F[tab]","\u002Fpage\u002F[tab]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
